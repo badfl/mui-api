@@ -1,6 +1,6 @@
 # .mui-table-view
 
-.mui.content下使用.mui-table-view距离上外边距15px
+.mui.content下使用.mui-table-view第一个子项距离上外边距15px
 ```
 <div class="mui-content">
 			<ul class="mui-table-view">
