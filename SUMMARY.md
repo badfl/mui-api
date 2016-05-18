@@ -8,5 +8,5 @@
        * [mui-collapse](mui-collapse.md)
    * [mui-navigate-right](mui-navigate-right.md)
    * [mui-collapse-content](mui-collapse-content.md)
-   * mui-popover-action
+   * [mui-popover-action](mui-popover-action.md)
 
