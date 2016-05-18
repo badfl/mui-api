@@ -1,5 +1,6 @@
 # mui-navigate-right
 折叠面板右侧下拉箭头，点击后变成上拉箭头
+例子：
 ```
 <div class="mui-content">
 			<ul class="mui-table-view">
