@@ -1,6 +1,19 @@
 # mui-collapse-content
 折叠面板需要展开的内容
-
+例子：
+```
+<div class="mui-content">
+			<ul class="mui-table-view">
+				<li class="mui-table-view-cell mui-collapse">
+					<a class="mui-navigate-right" href="#">Item 1</a>
+					<div class="mui-collapse-content">
+						第1个面板中的内容
+					</div>
+				</li>
+			</ul>
+		</div>
+```
+mui.css中源码（Mui v3.0.0）
 ```
 2427
 .mui-table-view-cell.mui-collapse.mui-active .mui-table-view, .mui-table-view-cell.mui-collapse.mui-active .mui-collapse-content
