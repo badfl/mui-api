@@ -1,2 +1,59 @@
 # mui-navigate-right
+折叠面板右侧下拉箭头，点击后变成上拉箭头
+```
+<div class="mui-content">
+			<ul class="mui-table-view">
+				<li class="mui-table-view-cell mui-collapse">
+					<a class="mui-navigate-right" href="#">Item 1</a>
+					<div class="mui-collapse-content">
+						第1个面板中的内容
+					</div>
+				</li>
+			</ul>
+		</div>
+```
+mui.css中源码
+```
 
+2419行
+.mui-table-view-cell.mui-collapse > .mui-navigate-right:after, .mui-table-view-cell.mui-collapse > .mui-push-right:after
+{
+    content: '\e581';
+}
+2431行
+.mui-table-view-cell.mui-collapse.mui-active > .mui-navigate-right:after, .mui-table-view-cell.mui-collapse.mui-active > .mui-push-right:after
+{
+    content: '\e580';
+}
+4567行
+.mui-navigate-right:after,
+.mui-push-left:after,
+.mui-push-right:after
+{
+    font-family: Muiicons;
+    font-size: inherit;
+    line-height: 1;
+
+    position: absolute;
+    top: 50%;
+
+    display: inline-block;
+
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+    text-decoration: none;
+
+    color: #bbb;
+
+    -webkit-font-smoothing: antialiased;
+}
+/*4596行*/
+.mui-navigate-right:after,
+.mui-push-right:after
+{
+    right: 15px;
+
+    content: '\e583';
+}
+
+```
