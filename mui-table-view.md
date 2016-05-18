@@ -13,3 +13,53 @@
 			</ul>
 		</div>
 ```
+
+```
+.mui-table-view
+{
+    position: relative;
+
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+
+    list-style: none;
+
+    background-color: #fff;
+}
+.mui-table-view:after
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    height: 1px;
+
+    content: '';
+    -webkit-transform: scaleY(.5);
+            transform: scaleY(.5);
+
+    background-color: #c8c7cc;
+}
+.mui-table-view:before
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+
+    height: 1px;
+
+    content: '';
+    -webkit-transform: scaleY(.5);
+            transform: scaleY(.5);
+
+    background-color: #c8c7cc;
+}
+.mui-table-view:before
+{
+    top: -1px;
+}
+
+```
