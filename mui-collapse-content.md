@@ -1,5 +1,6 @@
 # mui-collapse-content
 折叠面板需要展开的内容
+
 ```
 2427
 .mui-table-view-cell.mui-collapse.mui-active .mui-table-view, .mui-table-view-cell.mui-collapse.mui-active .mui-collapse-content
