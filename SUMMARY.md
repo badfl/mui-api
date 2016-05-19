@@ -19,4 +19,5 @@
        * [mui-badge-royal/mui-badge-purple](mui-badge-royalmui-badge-purple.md)
        * [mui-badge-inverted](mui-badge-inverted.md)
    * [mui-btn](mui-btn.md)
+       * mui-btn-primary
 
