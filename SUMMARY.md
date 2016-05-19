@@ -23,5 +23,5 @@
        * [mui-btn-positive/mui-btn-success/mui-btn-green](mui-btn-positivemui-btn-successmui-btn-green.md)
        * [mui-btn-warning/mui-btn-yellow](mui-btn-warningmui-btn-yellow.md)
        * [mui-btn-negative/mui-btn-danger/mui-btn-red](mui-btn-negativemui-btn-dangermui-btn-red.md)
-       * mui-btn-royal/mui-btn-purple
+       * [mui-btn-royal/mui-btn-purple](mui-btn-royalmui-btn-purple.md)
 
