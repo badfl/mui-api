@@ -11,5 +11,5 @@
    * [mui-popover-action](mui-popover-action.md)
    * [mui-popover-bottom](mui-popover-bottom.md)
    * [mui-popover](mui-popover.md)
-   * mui-badge
+   * [mui-badge](mui-badge.md)
 
