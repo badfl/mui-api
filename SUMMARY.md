@@ -14,4 +14,5 @@
    * [mui-badge](mui-badge.md)
        * [mui-badge-primary/mui-badge-blue](mui-badge-primary.md)
        * [mui-badge-success/mui-badge-green](mui-badge-successmui-badge-green.md)
+       * mui-badge-warning/mui-badge-yellow
 
