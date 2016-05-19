@@ -10,4 +10,5 @@
    * [mui-collapse-content](mui-collapse-content.md)
    * [mui-popover-action](mui-popover-action.md)
    * [mui-popover-bottom](mui-popover-bottom.md)
+   * mui-popover
 
