@@ -25,5 +25,5 @@
        * [mui-btn-negative/mui-btn-danger/mui-btn-red](mui-btn-negativemui-btn-dangermui-btn-red.md)
        * [mui-btn-royal/mui-btn-purple](mui-btn-royalmui-btn-purple.md)
        * [mui-btn-grey](mui-btn-grey.md)
-       * mui-btn-outlined
+       * [mui-btn-outlined](mui-btn-outlined.md)
 
