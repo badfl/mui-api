@@ -21,5 +21,5 @@
    * [mui-btn](mui-btn.md)
        * [mui-btn-primary/mui-btn-blue](mui-btn-primary.md)
        * [mui-btn-positive/mui-btn-success/mui-btn-green](mui-btn-positivemui-btn-successmui-btn-green.md)
-       * mui-btn-warning/mui-btn-yellow
+       * [mui-btn-warning/mui-btn-yellow](mui-btn-warningmui-btn-yellow.md)
 
