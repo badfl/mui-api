@@ -1,5 +1,5 @@
 # mui-btn-block
-区块按钮
+区块按钮，按钮变成块级元素
 ```
 1361
 .mui-btn-block
