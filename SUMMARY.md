@@ -13,5 +13,5 @@
    * [mui-popover](mui-popover.md)
    * [mui-badge](mui-badge.md)
        * [mui-badge-primary](mui-badge-primary.md)
-       * mui-badge-success/mui-badge-green
+       * [mui-badge-success/mui-badge-green](mui-badge-successmui-badge-green.md)
 
