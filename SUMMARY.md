@@ -26,4 +26,5 @@
        * [mui-btn-royal/mui-btn-purple](mui-btn-royalmui-btn-purple.md)
        * [mui-btn-grey](mui-btn-grey.md)
        * [mui-btn-outlined](mui-btn-outlined.md)
+       * mui-btn-block
 
