@@ -31,4 +31,5 @@
    * [mui-checkbox](mui-checkbox.md)
    * [mui-left](mui-left.md)
    * [mui-slider](mui-slider.md)
+       * mui-slider-group
 
