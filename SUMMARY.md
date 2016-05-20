@@ -1,7 +1,7 @@
 # Summary
 
 * [mui简介](README.md)
-* [Class类](chapter1.md)
+* [基本CSS样式](chapter1.md)
    * [.mui-content-padded](mui-content-padded.md)
    * [.mui-table-view](mui-table-view.md)
        * [mui-table-view-cell](mui-table-view-cell.md)
