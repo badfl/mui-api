@@ -34,6 +34,6 @@
        * mui-slider-loop
    * [mui-slider](mui-slider.md)
        * [mui-slider-group](mui-slider-group.md)
-       * mui-slider-item
+       * [mui-slider-item](mui-slider-item.md)
        * mui-slider-item-duplicate
 
