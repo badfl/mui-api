@@ -34,4 +34,5 @@
    * [mui-slider](mui-slider.md)
        * mui-slider-group
        * mui-slider-item
+       * mui-slider-item-duplicate
 
