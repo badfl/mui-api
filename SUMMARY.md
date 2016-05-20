@@ -30,6 +30,7 @@
        * [mui-btn-link](mui-btn-link.md)
    * [mui-checkbox](mui-checkbox.md)
    * [mui-left](mui-left.md)
+       * mui-slider-loop
    * [mui-slider](mui-slider.md)
        * mui-slider-group
 
