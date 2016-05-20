@@ -28,7 +28,7 @@
        * [mui-btn-outlined](mui-btn-outlined.md)
        * [mui-btn-block](mui-btn-block.md)
        * [mui-btn-link](mui-btn-link.md)
-       * mui-btn
+       * [mui-btn](.mui-btn.md)
    * [mui-checkbox](mui-checkbox.md)
    * [mui-left](mui-left.md)
        * mui-slider-loop
