@@ -18,7 +18,7 @@
        * [mui-badge-danger/mui-badge-red](mui-badge-dangermui-badge-red.md)
        * [mui-badge-royal/mui-badge-purple](mui-badge-royalmui-badge-purple.md)
        * [mui-badge-inverted](mui-badge-inverted.md)
-   * [按钮mui-btn](mui-btn.md)
+   * [按钮](mui-btn.md)
        * [mui-btn](.mui-btn.md)
        * [mui-btn-primary/mui-btn-blue](mui-btn-primary.md)
        * [mui-btn-positive/mui-btn-success/mui-btn-green](mui-btn-positivemui-btn-successmui-btn-green.md)
