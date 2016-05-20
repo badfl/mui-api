@@ -19,6 +19,7 @@
        * [mui-badge-royal/mui-badge-purple](mui-badge-royalmui-badge-purple.md)
        * [mui-badge-inverted](mui-badge-inverted.md)
    * [按钮mui-btn](mui-btn.md)
+       * [mui-btn](.mui-btn.md)
        * [mui-btn-primary/mui-btn-blue](mui-btn-primary.md)
        * [mui-btn-positive/mui-btn-success/mui-btn-green](mui-btn-positivemui-btn-successmui-btn-green.md)
        * [mui-btn-warning/mui-btn-yellow](mui-btn-warningmui-btn-yellow.md)
@@ -28,7 +29,6 @@
        * [mui-btn-outlined](mui-btn-outlined.md)
        * [mui-btn-block](mui-btn-block.md)
        * [mui-btn-link](mui-btn-link.md)
-       * [mui-btn](.mui-btn.md)
    * [mui-checkbox](mui-checkbox.md)
    * [mui-left](mui-left.md)
        * mui-slider-loop
