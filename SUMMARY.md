@@ -36,5 +36,5 @@
        * [mui-slider-group](mui-slider-group.md)
        * [mui-slider-item](mui-slider-item.md)
        * [mui-slider-item-duplicate](mui-slider-item-duplicate.md)
-       * [mui-slider2](mui-slider2.md)
+       * [mui-slider](mui-slider2.md)
 
