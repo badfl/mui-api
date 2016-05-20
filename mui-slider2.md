@@ -1,2 +1,2 @@
-# mui-slider2
+# mui-slider
 
