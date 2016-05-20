@@ -32,7 +32,7 @@
    * [mui-checkbox](mui-checkbox.md)
    * [mui-left](mui-left.md)
        * mui-slider-loop
-   * [mui-slider](mui-slider.md)
+   * [轮播图](mui-slider.md)
        * [mui-slider-group](mui-slider-group.md)
        * [mui-slider-item](mui-slider-item.md)
        * [mui-slider-item-duplicate](mui-slider-item-duplicate.md)
