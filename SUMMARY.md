@@ -29,4 +29,5 @@
        * [mui-btn-block](mui-btn-block.md)
        * [mui-btn-link](mui-btn-link.md)
    * [mui-left](mui-left.md)
+   * mui-checkbox
 
