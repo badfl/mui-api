@@ -46,4 +46,5 @@
    * [mui-collapse](mui-collapse.md)
    * [.mui-table-view](mui-table-view.md)
    * [列表/折叠面板](list.md)
+       * mui-navigate-right
 
