@@ -63,4 +63,5 @@
        * [mui-popover-bottom](mui-popover-bottom.md)
    * [进度条](progressbar.md)
        * mui-progressbar
+       * mui-progressbar-infinite
 
