@@ -3,8 +3,8 @@
 例子：
 ```
 <div class="mui-input-row mui-password">
-					<input type="password" class="mui-input-password" />
-				</div>
+	<input type="password" class="mui-input-password" />
+</div>
 
 ```
 
