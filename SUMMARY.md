@@ -50,4 +50,5 @@
        * [mui-navigate-right](mui-navigate-right.md)
        * [mui-collapse](mui-collapse.md)
        * [mui-media-object](mui-media-object.md)
+       * mui-media-body
 
