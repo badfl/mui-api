@@ -1,4 +1,4 @@
-# .mui-table-view
+# mui-table-view
 
 .mui.content下使用.mui-table-view第一个子项距离上外边距15px
 ```
