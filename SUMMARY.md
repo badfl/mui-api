@@ -55,5 +55,5 @@
        * [mui-ellipsis](mui-ellipsis.md)
    * [mui-pull-right](mui-pull-right.md)
    * [mui-pull-left](mui-pull-left.md)
-   * 数字输入框
+   * [数字输入框](number-box.md)
 
