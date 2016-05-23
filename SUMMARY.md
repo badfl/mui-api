@@ -28,9 +28,9 @@
        * [mui-button-row](mui-button-row.md)
    * [单选框/复选框](checkbox.md)
        * [mui-checkbox](mui-checkbox.md)
+       * [mui-left](mui-left.md)
+           * mui-slider-loop
        * 12
-   * [mui-left](mui-left.md)
-       * mui-slider-loop
    * [轮播图](mui-slider.md)
        * [mui-slider-group](mui-slider-group.md)
        * [mui-slider-item](mui-slider-item.md)
