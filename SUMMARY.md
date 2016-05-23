@@ -41,7 +41,7 @@
        * [mui-input-password](mui-input-password.md)
    * [mui-plus-visible](mui-plus-visible.md)
    * [列表/折叠面板](list.md)
-       * [.mui-table-view](mui-table-view.md)
+       * [mui-table-view](mui-table-view.md)
        * [mui-table-view-cell](mui-table-view-cell.md)
        * [mui-collapse-content](mui-collapse-content.md)
        * [mui-navigate-right](mui-navigate-right.md)
