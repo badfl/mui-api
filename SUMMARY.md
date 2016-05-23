@@ -5,7 +5,6 @@
    * [mui-content-padded](mui-content-padded.md)
    * [mui-popover-action](mui-popover-action.md)
    * [mui-popover-bottom](mui-popover-bottom.md)
-   * [mui-popover](mui-popover.md)
    * [数字角标](badge.md)
        * [mui-badge](mui-badge.md)
        * [mui-badge-primary/mui-badge-blue](mui-badge-primary.md)
@@ -61,5 +60,6 @@
        * [mui-numbox-btn-plus](mui-numbox-btn-plus.md)
        * [mui-numbox-input](mui-numbox-input.md)
    * [弹出菜单](popover.md)
+       * [mui-popover](mui-popover.md)
        * 123
 
