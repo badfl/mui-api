@@ -2,7 +2,7 @@
 
 * [mui简介](README.md)
 * [基本CSS样式](chapter1.md)
-   * [.mui-content-padded](mui-content-padded.md)
+   * [mui-content-padded](mui-content-padded.md)
    * [mui-collapse-content](mui-collapse-content.md)
    * [mui-popover-action](mui-popover-action.md)
    * [mui-popover-bottom](mui-popover-bottom.md)
