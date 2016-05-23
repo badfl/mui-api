@@ -52,5 +52,5 @@
        * [mui-media-object](mui-media-object.md)
        * [mui-media-body](mui-media-body.md)
        * [mui-ellipsis](mui-ellipsis.md)
-       * mui-media
+       * [mui-media](mui-media.md)
 
