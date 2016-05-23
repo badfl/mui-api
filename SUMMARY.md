@@ -56,8 +56,8 @@
    * [mui-pull-right](mui-pull-right.md)
    * [mui-pull-left](mui-pull-left.md)
    * [数字输入框](number-box.md)
+       * [mui-numbox](mui-numbox.md)
        * [mui-numbox-btn-minus](mui-numbox-btn-minus.md)
        * [mui-numbox-btn-plus](mui-numbox-btn-plus.md)
        * [mui-numbox-input](mui-numbox-input.md)
-       * [mui-numbox](mui-numbox.md)
 
