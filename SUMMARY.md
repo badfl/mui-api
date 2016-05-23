@@ -30,6 +30,7 @@
        * [mui-checkbox](mui-checkbox.md)
        * [mui-left](mui-left.md)
            * mui-slider-loop
+       * mui-disabled
    * [轮播图](mui-slider.md)
        * [mui-slider-group](mui-slider-group.md)
        * [mui-slider-item](mui-slider-item.md)
