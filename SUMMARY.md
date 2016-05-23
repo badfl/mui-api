@@ -26,6 +26,9 @@
        * [mui-btn-block](mui-btn-block.md)
        * [mui-btn-link](mui-btn-link.md)
        * [mui-button-row](mui-button-row.md)
+   * [单选框/复选框](checkbox.md)
+       * [mui-checkbox](mui-checkbox.md)
+       * 12
    * [mui-left](mui-left.md)
        * mui-slider-loop
    * [轮播图](mui-slider.md)
@@ -46,7 +49,4 @@
        * [mui-collapse-content](mui-collapse-content.md)
        * [mui-navigate-right](mui-navigate-right.md)
        * [mui-collapse](mui-collapse.md)
-   * [单选框/复选框](checkbox.md)
-       * [mui-checkbox](mui-checkbox.md)
-       * 12
 
