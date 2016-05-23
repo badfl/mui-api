@@ -2,6 +2,7 @@
 
 * [mui简介](README.md)
 * [基本CSS样式](chapter1.md)
+   * [mui-content-padded](mui-content-padded.md)
    * [数字角标](badge.md)
        * [mui-badge](mui-badge.md)
        * [mui-badge-primary/mui-badge-blue](mui-badge-primary.md)
