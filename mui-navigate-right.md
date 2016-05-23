@@ -1,7 +1,7 @@
 # mui-navigate-right
 在折叠面板（mui-collapse）中右侧添加下拉箭头，点击后变成上拉箭头
 在列表（mui-table-view-cell）中，右侧添加右箭头
-
+在单选列表中，选中显示对号
 下箭头例子：
 ```
 <div class="mui-content">
