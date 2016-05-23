@@ -43,5 +43,5 @@
        * [mui-input-speech](mui-input-speech.md)
        * [mui-password](mui-password.md)
        * [mui-input-password](mui-input-password.md)
-   * mui-plus-visible
+   * [mui-plus-visible](mui-plus-visible.md)
 
