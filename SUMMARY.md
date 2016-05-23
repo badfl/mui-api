@@ -51,4 +51,5 @@
        * [mui-collapse](mui-collapse.md)
        * [mui-media-object](mui-media-object.md)
        * [mui-media-body](mui-media-body.md)
+       * mui-ellipsis
 
