@@ -1,5 +1,6 @@
 # mui-navigate-right
-折叠面板右侧下拉箭头，点击后变成上拉箭头
+在折叠面板（mui-collapse）中右侧添加下拉箭头，点击后变成上拉箭头
+在列表（mui-table-view-cell）中，右侧添加右箭头
 例子：
 ```
 <div class="mui-content">
@@ -13,6 +14,23 @@
 			</ul>
 		</div>
 ```
+例子2：
+```
+<ul class="mui-table-view">
+	<li class="mui-table-view-cell">
+		<a class="mui-navigate-right">Item 1</a>
+	</li>
+	<li class="mui-table-view-cell">
+		<a class="mui-navigate-right">Item 2</a>
+	</li>
+	<li class="mui-table-view-cell">
+		<a class="mui-navigate-right">Item 3</a>
+	</li>
+</ul>
+```
+
+
+
 mui.css中源码（Mui v3.0.0）
 ```
 
