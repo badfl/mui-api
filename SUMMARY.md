@@ -39,4 +39,5 @@
        * [mui-slider](mui-slider2.md)
    * [输入框](shu_ru_kuang.md)
        * [mui-search](mui-search.md)
+       * mui-input-clear
 
