@@ -12,7 +12,6 @@
        * [mui-badge-success/mui-badge-green](mui-badge-successmui-badge-green.md)
        * [mui-badge-warning/mui-badge-yellow](mui-badge-warningmui-badge-yellow.md)
        * [mui-badge-danger/mui-badge-red](mui-badge-dangermui-badge-red.md)
-       * [mui-badge-royal/mui-badge-purple](mui-badge-royalmui-badge-purple.md)
    * [按钮](mui-btn.md)
        * [mui-btn](.mui-btn.md)
        * [mui-btn-primary/mui-btn-blue](mui-btn-primary.md)
@@ -49,6 +48,7 @@
        * [mui-navigate-right](mui-navigate-right.md)
        * [mui-collapse](mui-collapse.md)
    * [数字角标](badge.md)
+       * [mui-badge-royal/mui-badge-purple](mui-badge-royalmui-badge-purple.md)
        * [mui-badge-inverted](mui-badge-inverted.md)
        * asd
 
