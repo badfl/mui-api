@@ -3,7 +3,6 @@
 * [mui简介](README.md)
 * [基本CSS样式](chapter1.md)
    * [.mui-content-padded](mui-content-padded.md)
-   * [mui-navigate-right](mui-navigate-right.md)
    * [mui-collapse-content](mui-collapse-content.md)
    * [mui-popover-action](mui-popover-action.md)
    * [mui-popover-bottom](mui-popover-bottom.md)
@@ -45,5 +44,6 @@
    * [列表/折叠面板](list.md)
        * [.mui-table-view](mui-table-view.md)
        * [mui-table-view-cell](mui-table-view-cell.md)
+       * [mui-navigate-right](mui-navigate-right.md)
        * [mui-collapse](mui-collapse.md)
 
