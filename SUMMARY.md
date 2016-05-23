@@ -49,8 +49,8 @@
        * [mui-collapse-content](mui-collapse-content.md)
        * [mui-navigate-right](mui-navigate-right.md)
        * [mui-collapse](mui-collapse.md)
+       * [mui-media](mui-media.md)
        * [mui-media-object](mui-media-object.md)
        * [mui-media-body](mui-media-body.md)
        * [mui-ellipsis](mui-ellipsis.md)
-       * [mui-media](mui-media.md)
 
