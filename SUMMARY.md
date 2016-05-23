@@ -61,5 +61,4 @@
        * [mui-content-padded](mui-content-padded.md)
        * [mui-popover-action](mui-popover-action.md)
        * [mui-popover-bottom](mui-popover-bottom.md)
-       * 123
 
