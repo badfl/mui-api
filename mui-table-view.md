@@ -1,4 +1,12 @@
 # mui-table-view
+列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，如下为示例代码
+```
+<ul class="mui-table-view">
+	<li class="mui-table-view-cell">Item 1</li>
+	<li class="mui-table-view-cell">Item 2</li>
+	<li class="mui-table-view-cell">Item 3</li>
+</ul>
+```
 
 .mui.content下使用.mui-table-view第一个子项距离上外边距15px
 ```
