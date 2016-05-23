@@ -42,4 +42,5 @@
        * [mui-input-clear](mui-input-clear.md)
        * [mui-input-speech](mui-input-speech.md)
        * [mui-password](mui-password.md)
+       * mui-input-password
 
