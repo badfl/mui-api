@@ -1,5 +1,5 @@
 # mui-checkbox
-
+复选框
 ```
 2086
 .mui-table-view-cell.mui-radio input[type=radio], .mui-table-view-cell.mui-checkbox input[type=checkbox]
