@@ -54,4 +54,5 @@
        * [mui-media-body](mui-media-body.md)
        * [mui-ellipsis](mui-ellipsis.md)
    * mui-pull-right
+   * mui-pull-left
 
