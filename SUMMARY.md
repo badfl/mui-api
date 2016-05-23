@@ -46,5 +46,4 @@
        * [.mui-table-view](mui-table-view.md)
        * [mui-table-view-cell](mui-table-view-cell.md)
        * [mui-collapse](mui-collapse.md)
-       * mui-navigate-right
 
