@@ -29,6 +29,20 @@
 	</li>
 </ul>
 ```
+单选列表：
+```
+<ul class="mui-table-view mui-table-view-radio">
+	<li class="mui-table-view-cell">
+		<a class="mui-navigate-right">Item 1</a>
+	</li>
+	<li class="mui-table-view-cell mui-selected">
+		<a class="mui-navigate-right">Item 2</a>
+	</li>
+	<li class="mui-table-view-cell">
+		<a class="mui-navigate-right">Item 3</a>
+	</li>
+</ul>
+```
 
 
 
