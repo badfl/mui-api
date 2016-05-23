@@ -53,6 +53,6 @@
        * [mui-media-object](mui-media-object.md)
        * [mui-media-body](mui-media-body.md)
        * [mui-ellipsis](mui-ellipsis.md)
-   * mui-pull-right
+   * [mui-pull-right](mui-pull-right.md)
    * mui-pull-left
 
