@@ -67,7 +67,7 @@
    * [滑块](range.md)
        * [mui-input-range](mui-input-range.md)
    * [开关](switch.md)
-       * mui-switch-handle
+       * [mui-switch-handle](mui-switch-handle.md)
        * mui-switch
        * mui-switch-mini
 
