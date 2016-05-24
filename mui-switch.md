@@ -1,5 +1,6 @@
 # mui-switch
 定义开关背景与文字（on/off）
+
 重新定义背景文字与颜色：
 ```
 .mui-switch:before{
