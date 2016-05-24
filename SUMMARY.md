@@ -68,4 +68,5 @@
        * [mui-input-range](mui-input-range.md)
    * [开关](switch.md)
        * mui-switch-handle
+       * mui-switch
 
