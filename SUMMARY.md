@@ -28,7 +28,7 @@
        * [mui-left](mui-left.md)
            * mui-slider-loop
        * [mui-disabled](mui-disabled.md)
-   * [轮播图](mui-slider.md)
+   * [轮播组件](mui-slider.md)
        * [mui-slider-group](mui-slider-group.md)
        * [mui-slider-item](mui-slider-item.md)
        * [mui-slider-item-duplicate](mui-slider-item-duplicate.md)
