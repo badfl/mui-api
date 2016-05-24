@@ -1,5 +1,17 @@
 # mui-switch
 定义开关背景与文字（on/off）
+重新定义背景文字与颜色：
+```
+.mui-switch:before{
+    		color: #8A6DE9;
+    		content: '关';
+    	}
+    	.mui-switch.mui-active:before{
+    		color: #FFFF00;
+    		content: '开';
+    	}
+```
+
 ```
 4415
 .mui-switch
