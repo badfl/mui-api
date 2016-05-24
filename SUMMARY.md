@@ -50,7 +50,6 @@
        * [mui-media-object](mui-media-object.md)
        * [mui-media-body](mui-media-body.md)
        * [mui-ellipsis](mui-ellipsis.md)
-   * [mui-pull-right](mui-pull-right.md)
    * [数字输入框](number-box.md)
        * [mui-numbox](mui-numbox.md)
        * [mui-numbox-btn-minus](mui-numbox-btn-minus.md)
@@ -71,6 +70,7 @@
        * [mui-switch-mini](mui-switch-mini.md)
        * [mui-switch-blue](mui-switch-blue.md)
    * [其他](other.md)
+       * [mui-pull-right](mui-pull-right.md)
        * [mui-pull-left](mui-pull-left.md)
        * mui-content
 
