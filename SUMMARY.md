@@ -39,7 +39,6 @@
        * [mui-input-speech](mui-input-speech.md)
        * [mui-password](mui-password.md)
        * [mui-input-password](mui-input-password.md)
-   * [mui-plus-visible](mui-plus-visible.md)
    * [列表/折叠面板](list.md)
        * [mui-table-view](mui-table-view.md)
        * [mui-table-view-cell](mui-table-view-cell.md)
@@ -70,6 +69,7 @@
        * [mui-switch-mini](mui-switch-mini.md)
        * [mui-switch-blue](mui-switch-blue.md)
    * [其他](other.md)
+       * [mui-plus-visible](mui-plus-visible.md)
        * [mui-pull-right](mui-pull-right.md)
        * [mui-pull-left](mui-pull-left.md)
        * mui-content
