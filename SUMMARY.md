@@ -65,4 +65,5 @@
        * [mui-progressbar](mui-progressbar.md)
        * [mui-progressbar-infinite](mui-progressbar-infinite.md)
    * [滑块](range.md)
+       * mui-input-range
 
