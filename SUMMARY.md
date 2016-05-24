@@ -69,5 +69,5 @@
    * [开关](switch.md)
        * [mui-switch-handle](mui-switch-handle.md)
        * mui-switch
-       * mui-switch-mini
+       * [mui-switch-mini](mui-switch-mini.md)
 
