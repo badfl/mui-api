@@ -64,5 +64,5 @@
    * [进度条](progressbar.md)
        * [mui-progressbar](mui-progressbar.md)
        * [mui-progressbar-infinite](mui-progressbar-infinite.md)
-   * 滑块
+   * [滑块](range.md)
 
