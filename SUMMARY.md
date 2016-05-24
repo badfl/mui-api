@@ -76,5 +76,5 @@
    * [区域滚动](scroll.md)
    * [侧滑菜单](offcanvas.md)
    * [遮罩蒙版](mask.md)
-   * 导航栏
+   * [导航栏](nav.md)
 
