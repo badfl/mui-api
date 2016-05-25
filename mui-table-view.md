@@ -1,5 +1,11 @@
 # mui-table-view
-列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，如下为示例代码
+
+
+---
+
+
+列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，
+**如下为示例代码：**
 ```
 <ul class="mui-table-view">
 	<li class="mui-table-view-cell">Item 1</li>
@@ -8,6 +14,7 @@
 </ul>
 ```
 
+**折叠面板：**
 .mui.content下使用.mui-table-view第一个子项距离上外边距15px
 ```
 <div class="mui-content">
@@ -21,6 +28,13 @@
 			</ul>
 		</div>
 ```
+
+
+---
+
+
+### Mui.css （*v3.0.0*）部分源码：
+
 
 ```
 .mui-table-view
