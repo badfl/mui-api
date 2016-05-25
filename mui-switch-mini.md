@@ -1,5 +1,10 @@
 # mui-switch-mini
 隐藏开关on/off文字提示，变成简洁模式
+
+---
+
+
+### Mui.css （*v3.0.0*）部分源码：
 ```
 4513
 .mui-switch-mini
