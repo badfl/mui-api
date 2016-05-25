@@ -1,6 +1,10 @@
 # mui-ellipsis
 
 文字多出部分添加...
+---
+
+
+### Mui.css （*v3.0.0*）部分源码：
 ```
 393
 .mui-ellipsis
