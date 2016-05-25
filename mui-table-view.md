@@ -2,7 +2,11 @@
 
 
 ---
-
+<ul class="mui-table-view">
+	<li class="mui-table-view-cell">Item 1</li>
+	<li class="mui-table-view-cell">Item 2</li>
+	<li class="mui-table-view-cell">Item 3</li>
+</ul>
 
 列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，
 **如下为示例代码：**
