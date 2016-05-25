@@ -1,5 +1,10 @@
 # mui-disabled
 将单选框复选框文字变成灰色  不可选中状态
+
+---
+
+
+### Mui.css （*v3.0.0*）部分源码：
 ```
 1223
 input[type='button']:disabled, input[type='button'].mui-disabled,
