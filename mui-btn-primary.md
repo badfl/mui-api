@@ -6,46 +6,7 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
-    <title></title>
-    <script src="../js/mui.min.js"></script>
-    <link href="../css/mui.min.css" rel="stylesheet"/>
-    <script type="text/javascript" charset="UTF-8">
-      	mui.init();
-    </script>
-    <style>
-    	
-    	.mui-input-range .mui-tooltip
-{
-    font-size: 30px;
-    line-height: 50px;
 
-    top: -50px;
-
-    width: 50px;
-    height: 50px;
-
-    color: #007AFF;
-
-}
-    </style>
-</head>
-<body>
-<div class="mui-content">
-    <div class="mui-content-padded">
-    	<div class="mui-input-row mui-input-range" style="margin-top: 50px;">
-    		<label>滑块默认样式：</label>
-    		<input type="range" min="0" max="100"/>
-    	</div>
-    </div>
-</div>
-	
-</body>
-</html>
 
 
 
