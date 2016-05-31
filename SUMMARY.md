@@ -78,7 +78,7 @@
    * [侧滑菜单](offcanvas.md)
    * [遮罩蒙版](mask.md)
    * [导航栏](nav.md)
-       * mui-bar
+       * [mui-bar](mui-bar.md)
    * 分页
    * 选择器
    * 选项卡
