@@ -79,6 +79,7 @@
    * [遮罩蒙版](mask.md)
    * [导航栏](nav.md)
        * [mui-bar](mui-bar.md)
+       * mui-title
    * 分页
    * 选择器
    * 选项卡
