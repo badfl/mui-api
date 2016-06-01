@@ -89,5 +89,6 @@
        * [mui-grid-view](mui-grid-view.md)
        * [mui-col-xs-4](mui-col-xs-4.md)
        * mui-col-sm-3
+       * mui-col-xs-12
    * 日期
 
