@@ -99,7 +99,7 @@
        * [mui-col-xs-3](mui-col-xs-3.md)
        * [mui-col-xs-2](mui-col-xs-2.md)
        * [mui-col-xs-1](mui-col-xs-1.md)
-       * mui-col-sm-12
+       * [mui-col-sm-12](mui-col-sm-12.md)
        * mui-col-sm-11
        * mui-col-sm-10
        * mui-col-sm-9
