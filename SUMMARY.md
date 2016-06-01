@@ -109,5 +109,6 @@
        * mui-col-sm-6
        * mui-col-sm-5
        * mui-col-sm-4
+       * mui-col-sm-2
    * 日期
 
