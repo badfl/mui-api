@@ -87,7 +87,7 @@
    * [九宫格](grid9.md)
        * [mui-grid-9](mui-grid-9.md)
        * [mui-grid-view](mui-grid-view.md)
-       * mui-col-xs-12
+       * [mui-col-xs-12](mui-col-xs-12.md)
        * mui-col-xs-11
        * mui-col-xs-10
        * mui-col-xs-9
