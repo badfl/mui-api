@@ -104,7 +104,7 @@
        * [mui-col-sm-10](mui-col-sm-10.md)
        * [mui-col-sm-9](mui-col-sm-9.md)
        * [mui-col-sm-8](mui-col-sm-8.md)
-       * mui-col-sm-7
+       * [mui-col-sm-7](mui-col-sm-7.md)
        * mui-col-sm-6
        * mui-col-sm-5
        * mui-col-sm-4
