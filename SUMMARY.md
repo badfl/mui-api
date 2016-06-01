@@ -99,5 +99,6 @@
        * mui-col-xs-5
        * mui-col-xs-3
        * mui-col-xs-2
+       * mui-col-xs-1
    * 日期
 
