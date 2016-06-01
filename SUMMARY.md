@@ -92,7 +92,7 @@
        * [mui-col-xs-10](mui-col-xs-10.md)
        * [mui-col-xs-9](mui-col-xs-9.md)
        * [mui-col-xs-8](mui-col-xs-8.md)
-       * mui-col-xs-7
+       * [mui-col-xs-7](mui-col-xs-7.md)
        * mui-col-xs-6
        * mui-col-xs-5
        * [mui-col-xs-4](mui-col-xs-4.md)
