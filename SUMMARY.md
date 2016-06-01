@@ -89,7 +89,7 @@
        * [mui-grid-view](mui-grid-view.md)
        * [mui-col-xs-12](mui-col-xs-12.md)
        * [mui-col-xs-11](mui-col-xs-11.md)
-       * mui-col-xs-10
+       * [mui-col-xs-10](mui-col-xs-10.md)
        * mui-col-xs-9
        * mui-col-xs-8
        * mui-col-xs-7
