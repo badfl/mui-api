@@ -100,5 +100,6 @@
        * mui-col-xs-3
        * mui-col-xs-2
        * mui-col-xs-1
+       * mui-col-sm-12
    * 日期
 
