@@ -87,7 +87,6 @@
    * [九宫格](grid9.md)
        * [mui-grid-9](mui-grid-9.md)
        * [mui-grid-view](mui-grid-view.md)
-       * [mui-col-xs-4](mui-col-xs-4.md)
        * mui-col-sm-3
        * mui-col-xs-12
        * mui-col-xs-11
@@ -97,5 +96,6 @@
        * mui-col-xs-7
        * mui-col-xs-6
        * mui-col-xs-5
+   * [mui-col-xs-4](mui-col-xs-4.md)
    * 日期
 
