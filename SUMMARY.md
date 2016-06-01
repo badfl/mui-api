@@ -86,5 +86,6 @@
    * 文字
    * [九宫格](grid9.md)
        * [mui-grid-9](mui-grid-9.md)
+       * mui-grid-view
    * 日期
 
