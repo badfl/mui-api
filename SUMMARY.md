@@ -109,7 +109,7 @@
        * [mui-col-sm-5](mui-col-sm-5.md)
        * [mui-col-sm-4](mui-col-sm-4.md)
        * [mui-col-sm-3](mui-col-sm-3.md)
-       * mui-col-sm-2
+       * [mui-col-sm-2](mui-col-sm-2.md)
        * mui-col-sm-1
    * 日期
 
