@@ -68,6 +68,7 @@
        * [mui-scroll-wrapper](mui-scroll-wrapper.md)
        * [mui-fullscreen](mui-fullscreen.md)
        * [mui-slider-indicator](mui-slider-indicator.md)
+       * mui-segmented-control
    * [进度条](progressbar.md)
        * [mui-progressbar](mui-progressbar.md)
        * [mui-progressbar-infinite](mui-progressbar-infinite.md)
