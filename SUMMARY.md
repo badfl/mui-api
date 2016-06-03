@@ -65,6 +65,7 @@
        * [mui-slider-item](mui-slider-item.md)
        * [mui-slider-item-duplicate](mui-slider-item-duplicate.md)
        * [mui-slider](mui-slider2.md)
+       * mui-scroll-wrapper
    * [进度条](progressbar.md)
        * [mui-progressbar](mui-progressbar.md)
        * [mui-progressbar-infinite](mui-progressbar-infinite.md)
