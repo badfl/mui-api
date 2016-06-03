@@ -82,7 +82,7 @@
        * [mui-title](mui-title.md)
    * 分页
    * 选择器
-   * 选项卡
+   * [选项卡](tabbar.md)
    * 文字
    * [九宫格](grid9.md)
        * [mui-grid-9](mui-grid-9.md)
