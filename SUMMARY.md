@@ -79,7 +79,7 @@
        * [mui-plus-visible](mui-plus-visible.md)
        * [mui-pull-right](mui-pull-right.md)
        * [mui-pull-left](mui-pull-left.md)
-       * mui-card
+       * [mui-card](mui-card.md)
    * [区域滚动](scroll.md)
    * [侧滑菜单](offcanvas.md)
    * [遮罩蒙版](mask.md)
