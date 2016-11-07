@@ -81,6 +81,7 @@
        * [mui-pull-right](mui-pull-right.md)
        * [mui-pull-left](mui-pull-left.md)
        * [mui-card](mui-card.md)
+       * mui-clearfix
    * [区域滚动](scroll.md)
        * mui-scroll-wrapper
        * [mui-scroll](mui-scroll.md)
