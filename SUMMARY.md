@@ -91,6 +91,7 @@
    * 选择器
    * [选项卡](tabbar.md)
        * mui-segmented-control
+       * mui-control-item
    * 文字
    * [九宫格](grid9.md)
        * [mui-grid-9](mui-grid-9.md)
