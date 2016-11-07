@@ -83,7 +83,7 @@
        * [mui-card](mui-card.md)
    * [区域滚动](scroll.md)
        * mui-scroll-wrapper
-       * mui-scroll
+       * [mui-scroll](mui-scroll.md)
    * [侧滑菜单](offcanvas.md)
    * [遮罩蒙版](mask.md)
    * [导航栏](nav.md)
