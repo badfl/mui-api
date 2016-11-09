@@ -12,7 +12,11 @@
 	<li class="mui-table-view-cell">Item 3</li>
 </ul>
 ```
-
+<ul class="mui-table-view">
+	<li class="mui-table-view-cell">Item 1</li>
+	<li class="mui-table-view-cell">Item 2</li>
+	<li class="mui-table-view-cell">Item 3</li>
+</ul>
 **折叠面板：**
 .mui.content下使用.mui-table-view第一个子项距离上外边距15px
 ```
