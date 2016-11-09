@@ -1,7 +1,7 @@
 # mui-btn-outlined
+希望无底色、有边框的按钮
 ```<button type="button" class="mui-btn mui-btn-primary mui-btn-outlined">蓝色</button>```
-去掉背景色
----
+
 
 
 ### Mui.css （*v3.0.0*）部分源码：
