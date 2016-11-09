@@ -1,13 +1,12 @@
 {
 
-    //样式风格配置格式
-    "styles":{
-        "website":"styles/mui.min.css",
-        "ebook":"styles/mui.min.css",
-        "pdf":"styles/mui.min.css",
-        "mobi": "styles/mui.min.css",
-        "epub": "styles/mui.min.css"
-     },
+    "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+    }
 
    
 }
