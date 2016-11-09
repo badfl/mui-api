@@ -1,7 +1,7 @@
 
  //样式风格配置格式
     "styles": {
-        "website": "styles/mui.min.css",
+        "website": "styles/website.css",
         "ebook": "styles/mui.min.css",
         "pdf": "styles/mui.min.css",
         "mobi": "styles/mui.min.css",
