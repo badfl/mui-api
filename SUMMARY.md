@@ -126,5 +126,5 @@
        * [mui-col-sm-2](mui-col-sm-2.md)
        * [mui-col-sm-1](mui-col-sm-1.md)
    * 日期
-   * 卡片视图
+   * [卡片视图](cardview.md)
 
