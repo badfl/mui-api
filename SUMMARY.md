@@ -43,10 +43,10 @@
         * [mui-input-password](mui-input-password.md)
     * [单选框\/复选框](checkbox.md)
         * [mui-checkbox](mui-checkbox.md)
+        * [mui-radio](mui-radio.md)
         * [mui-left](mui-left.md)
             * mui-slider-loop
         * [mui-disabled](mui-disabled.md)
-        * [mui-radio](mui-radio.md)
     * [滑块](range.md)
         * [mui-input-range](mui-input-range.md)
         * [mui-tooltip](mui-tooltip.md)
