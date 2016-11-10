@@ -1,9 +1,9 @@
 # mui-slider-item
 
----
 
 
-### Mui.css （*v3.0.0*）部分源码：
+### Mui.css （_v3.0.0_）部分源码：
+
 ```
 4289
 .mui-slider .mui-slider-group .mui-slider-item
@@ -38,3 +38,4 @@
 }
 
 ```
+
