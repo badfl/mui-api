@@ -1,10 +1,33 @@
 # mui-checkbox
+
 复选框
+
+checkbox常用于多选的情况，比如批量删除、添加群聊等；
+
+#### DOM结构
+
+```
+<div class="mui-input-row mui-checkbox">
+  <label>checkbox示例</label>
+  <input name="checkbox1" value="Item 1" type="checkbox" checked>
+</div>
+```
+
+默认checkbox在右侧显示，若希望在左侧显示，只需增加`.mui-left`类即可，如下：
+
+```
+<div class="mui-input-row mui-checkbox mui-left">
+  <label>checkbox左侧显示示例</label>
+  <input name="checkbox1" value="Item 1" type="checkbox">
+</div>
+```
+
+若要禁用checkbox，只需在checkbox上增加disabled属性即可；
 
 ---
 
+### Mui.css （_v3.0.0_）部分源码：
 
-### Mui.css （*v3.0.0*）部分源码：
 ```
 2086
 .mui-table-view-cell.mui-radio input[type=radio], .mui-table-view-cell.mui-checkbox input[type=checkbox]
@@ -97,3 +120,4 @@
     content: '\e442';
 }
 ```
+

@@ -1,13 +1,13 @@
 # 单选框\/复选框
 
-radio用于单选的情况
+# radio用于单选的情况
 
 #### DOM结构
 
 ```js
 <div class="mui-input-row mui-radio">
-	<label>radio</label>
-	<input name="radio1" type="radio">
+    <label>radio</label>
+    <input name="radio1" type="radio">
 </div>
 ```
 
@@ -15,8 +15,8 @@ radio用于单选的情况
 
 ```js
 <div class="mui-input-row mui-radio mui-left">
-	<label>radio</label>
-	<input name="radio1" type="radio">
+    <label>radio</label>
+    <input name="radio1" type="radio">
 </div> 
 ```
 
@@ -26,15 +26,15 @@ mui基于列表控件，提供了列表式单选实现；在列表根节点上�
 
 ```js
 <ul class="mui-table-view mui-table-view-radio">
-	<li class="mui-table-view-cell">
-		<a class="mui-navigate-right">Item 1</a>
-	</li>
-	<li class="mui-table-view-cell mui-selected">
-		<a class="mui-navigate-right">Item 2</a>
-	</li>
-	<li class="mui-table-view-cell">
-		<a class="mui-navigate-right">Item 3</a>
-	</li>
+    <li class="mui-table-view-cell">
+        <a class="mui-navigate-right">Item 1</a>
+    </li>
+    <li class="mui-table-view-cell mui-selected">
+        <a class="mui-navigate-right">Item 2</a>
+    </li>
+    <li class="mui-table-view-cell">
+        <a class="mui-navigate-right">Item 3</a>
+    </li>
 </ul>
 ```
 
@@ -43,7 +43,31 @@ mui基于列表控件，提供了列表式单选实现；在列表根节点上�
 ```js
 var list = document.querySelector('.mui-table-view.mui-table-view-radio');
 list.addEventListener('selected',function(e){
-	console.log("当前选中的为："+e.detail.el.innerText);
+    console.log("当前选中的为："+e.detail.el.innerText);
 });
 ```
+
+
+
+# checkbox常用于多选的情况，比如批量删除、添加群聊等；
+
+#### DOM结构
+
+```js
+<div class="mui-input-row mui-checkbox">
+  <label>checkbox示例</label>
+  <input name="checkbox1" value="Item 1" type="checkbox" checked>
+</div>
+```
+
+默认checkbox在右侧显示，若希望在左侧显示，只需增加`.mui-left`类即可，如下：
+
+```js
+<div class="mui-input-row mui-checkbox mui-left">
+  <label>checkbox左侧显示示例</label>
+  <input name="checkbox1" value="Item 1" type="checkbox">
+</div>
+```
+
+若要禁用checkbox，只需在checkbox上增加disabled属性即可；
 

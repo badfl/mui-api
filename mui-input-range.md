@@ -1,9 +1,20 @@
 # mui-input-range
 
+滑块常用于区间数字选择
+
+#### DOM结构
+
+```js
+<div class="mui-input-row mui-input-range">
+	<label>Range</label>
+	<input type="range" min="0" max="100">
+</div>
+```
+
 ---
 
+### Mui.css （_v3.0.0_）部分源码：
 
-### Mui.css （*v3.0.0*）部分源码：
 ```
 2909
 .mui-input-row.mui-input-range
@@ -108,3 +119,4 @@
 }
 
 ```
+
