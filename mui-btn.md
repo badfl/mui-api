@@ -31,4 +31,5 @@ mui默认按钮为灰色，另外还提供了蓝色（blue）、绿色\(green\)�
 <button type="button" class="mui-btn mui-btn-danger mui-btn-outlined">红色</button>
 <button type="button" class="mui-btn mui-btn-royal mui-btn-outlined">紫色</button> 
 ```
+[source code](https://jsfiddle.net/badfl/enc8t49v/)
 
