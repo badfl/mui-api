@@ -6,7 +6,7 @@
 
 列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，如下为示例代码
 
-```
+```js
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">Item 1</li>
     <li class="mui-table-view-cell">Item 2</li>
@@ -17,7 +17,7 @@
 自定义列表高亮颜色
 点击列表，对应列表项显示灰色高亮，若想自定义高亮颜色，只需要重写.mui-table-view-cell.mui-active即可，如下：
 
-```
+```js
 /*点击变蓝色高亮*/
 .mui-table-view-cell .mui-active{
     background-color: #0062CC;
@@ -27,7 +27,7 @@
 右侧添加导航箭头
 若右侧需要增加导航箭头，变成导航链接，则只需在li节点下增加a子节点，并为该a节点增加.mui-navigate-right类即可，如下：
 
-```
+```js
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">
         <a class="mui-navigate-right">Item 1</a>
@@ -44,7 +44,7 @@
 右侧添加数字角标等控件
 mui支持将数字角标、按钮、开关等控件放在列表中；mui默认将数字角标放在列表右侧显示，代码如下：
 
-```
+```js
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">Item 1 
         <span class="mui-badge mui-badge-primary">11</span>
@@ -62,7 +62,7 @@ media list（图文列表）
 图文列表继承自列表组件，主要添加了.mui-media、.mui-media-object、.mui-media-body、.mui-pull-left\/right几个类，如下为示例代码
 [source code](https://jsfiddle.net/badfl/t4htb4re/)
 
-```
+```js
 <ul class="mui-table-view">
     <li class="mui-table-view-cell mui-media">
         <a href="javascript:;">
@@ -96,7 +96,8 @@ media list（图文列表）
 
 折叠面板从二级列表中演化而来，dom结构和二级列表类似
 [source code](https://jsfiddle.net/badfl/k4mfLnsx/)
-```
+
+```js
 <ul class="mui-table-view"> 
         <li class="mui-table-view-cell mui-collapse">
             <a class="mui-navigate-right" href="#">面板1</a>
