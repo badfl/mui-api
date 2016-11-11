@@ -1,8 +1,1 @@
-{
-
-   
-"plugins": [ "tbfed-pagefooter" ], "pluginsConfig": { "tbfed-pagefooter": { "copyright":"Copyright © zhangjikai.com 2015", "modify_label": "该文件修订时间：", "modify_format": "YYYY-MM-DD HH:mm:ss" } }
-
-
-   
-}
+{ "plugins": [ "jsfiddle"], "pluginsConfig": { "jsfiddle":{ "type":"script" "tabs":["result","js","css", "html"], "height": "500", "width": "500", "fontColor": "00FF00" } } }
