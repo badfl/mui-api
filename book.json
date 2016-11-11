@@ -1,5 +1,5 @@
 { 
-   "plugins": [ "jsfiddle"],
+   "plugins": [ "jsfiddle","toggle-chapters","book-summary-scroll-position-saver","expandable-chapters"],
     "pluginsConfig": {
           "jsfiddle":{
             "type":"script",
