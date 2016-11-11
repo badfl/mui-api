@@ -1,8 +1,9 @@
 # 列表\/折叠面板
 
+[source code](https://jsfiddle.net/badfl/h4j4fhzy/)
+
 普通列表
 
- \[source code\]\(https:\/\/jsfiddle.net\/4o4z6fqn\/9\/\) 
 列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，如下为示例代码
 
 ```
@@ -59,6 +60,7 @@ mui支持将数字角标、按钮、开关等控件放在列表中；mui默认�
 
 media list（图文列表）
 图文列表继承自列表组件，主要添加了.mui-media、.mui-media-object、.mui-media-body、.mui-pull-left\/right几个类，如下为示例代码
+[source code](https://jsfiddle.net/badfl/t4htb4re/)
 
 ```
 <ul class="mui-table-view">
@@ -93,7 +95,7 @@ media list（图文列表）
 ```
 
 折叠面板从二级列表中演化而来，dom结构和二级列表类似
-
+[source code](https://jsfiddle.net/badfl/k4mfLnsx/)
 ```
 <ul class="mui-table-view"> 
         <li class="mui-table-view-cell mui-collapse">
