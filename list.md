@@ -1,6 +1,10 @@
-# 列表/折叠面板
+# 列表\/折叠面板
+
 普通列表
+
+ \[source code\]\(https:\/\/jsfiddle.net\/4o4z6fqn\/9\/\) 
 列表是常用的UI控件，mui封装的列表组件比较简单，只需要在ul节点上添加.mui-table-view类、在li节点上添加.mui-table-view-cell类即可，如下为示例代码
+
 ```
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">Item 1</li>
@@ -8,16 +12,20 @@
     <li class="mui-table-view-cell">Item 3</li>
 </ul>
 ```
+
 自定义列表高亮颜色
 点击列表，对应列表项显示灰色高亮，若想自定义高亮颜色，只需要重写.mui-table-view-cell.mui-active即可，如下：
+
 ```
 /*点击变蓝色高亮*/
 .mui-table-view-cell .mui-active{
-	background-color: #0062CC;
+    background-color: #0062CC;
 }
 ```
+
 右侧添加导航箭头
 若右侧需要增加导航箭头，变成导航链接，则只需在li节点下增加a子节点，并为该a节点增加.mui-navigate-right类即可，如下：
+
 ```
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">
@@ -31,8 +39,10 @@
     </li>
 </ul>
 ```
+
 右侧添加数字角标等控件
 mui支持将数字角标、按钮、开关等控件放在列表中；mui默认将数字角标放在列表右侧显示，代码如下：
+
 ```
 <ul class="mui-table-view">
     <li class="mui-table-view-cell">Item 1 
@@ -46,8 +56,10 @@ mui支持将数字角标、按钮、开关等控件放在列表中；mui默认�
     </li>
 </ul>
 ```
+
 media list（图文列表）
-图文列表继承自列表组件，主要添加了.mui-media、.mui-media-object、.mui-media-body、.mui-pull-left/right几个类，如下为示例代码
+图文列表继承自列表组件，主要添加了.mui-media、.mui-media-object、.mui-media-body、.mui-pull-left\/right几个类，如下为示例代码
+
 ```
 <ul class="mui-table-view">
     <li class="mui-table-view-cell mui-media">
@@ -80,8 +92,8 @@ media list（图文列表）
 </ul>
 ```
 
-
 折叠面板从二级列表中演化而来，dom结构和二级列表类似
+
 ```
 <ul class="mui-table-view"> 
         <li class="mui-table-view-cell mui-collapse">
@@ -92,4 +104,6 @@ media list（图文列表）
         </li>
     </ul>
 ```
+
 可以在折叠面板中放置任何内容；折叠面板默认收缩，若希望某个面板默认展开，只需要在包含.mui-collapse类的li节点上，增加.mui-active类即可；mui官网中的方法说明，使用的就是折叠面板控件。
+
