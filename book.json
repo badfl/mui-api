@@ -3,7 +3,7 @@
     "pluginsConfig": {
           "jsfiddle":{
             "type":"script",
-            "tabs":["result", "html"],
+            "tabs":["html","result"],
             "height": "300",
             "width": "200",
             "fontColor": "00FF00"
