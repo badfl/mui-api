@@ -135,10 +135,4 @@
         * [mui-col-sm-3](mui-col-sm-3.md)
         * [mui-col-sm-2](mui-col-sm-2.md)
         * [mui-col-sm-1](mui-col-sm-1.md)
-    * [卡片视图](cardview.md)
-        * [mui-card](mui-card.md)
-        * [mui-card-header](mui-card-header.md)
-        * [mui-card-content](mui-card-content.md)
-        * mui-card-footer
-        * mui-card-media
 
