@@ -34,8 +34,8 @@
         * [mui-card-header](mui-card-header.md)
         * [mui-card-content](mui-card-content.md)
         * [mui-card-footer](mui-card-footer.md)
-        * mui-card-media
-        * mui-card-content-inner
+        * [mui-card-media](mui-card-media.md)
+        * [mui-card-content-inner](mui-card-content-inner.md)
         * mui-card-link
     * [输入框](shu_ru_kuang.md)
         * [mui-search](mui-search.md)
