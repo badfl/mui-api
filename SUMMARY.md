@@ -45,7 +45,7 @@
         * [mui-input-password](mui-input-password.md)
         * mui-input-group
         * mui-input-row
-    * 消息框
+    * [消息框](消息框.md)
     * [单选框\/复选框](checkbox.md)
         * [mui-checkbox](mui-checkbox.md)
         * [mui-radio](mui-radio.md)
