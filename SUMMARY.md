@@ -37,6 +37,7 @@
         * [mui-card-media](mui-card-media.md)
         * [mui-card-content-inner](mui-card-content-inner.md)
         * mui-card-link
+    * [消息框](消息框.md)
     * [输入框](shu_ru_kuang.md)
         * [mui-search](mui-search.md)
         * [mui-input-clear](mui-input-clear.md)
@@ -45,7 +46,6 @@
         * [mui-input-password](mui-input-password.md)
         * mui-input-group
         * mui-input-row
-    * [消息框](消息框.md)
     * [单选框\/复选框](checkbox.md)
         * [mui-checkbox](mui-checkbox.md)
         * [mui-radio](mui-radio.md)
