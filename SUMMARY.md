@@ -45,6 +45,7 @@
         * [mui-input-password](mui-input-password.md)
         * mui-input-group
         * mui-input-row
+    * 消息框
     * [单选框\/复选框](checkbox.md)
         * [mui-checkbox](mui-checkbox.md)
         * [mui-radio](mui-radio.md)
@@ -108,31 +109,5 @@
         * mui-segmented-control
         * mui-control-item
     * 文字
-    * [九宫格](grid9.md)
-        * [mui-grid-9](mui-grid-9.md)
-        * [mui-grid-view](mui-grid-view.md)
-        * [mui-col-xs-12](mui-col-xs-12.md)
-        * [mui-col-xs-11](mui-col-xs-11.md)
-        * [mui-col-xs-10](mui-col-xs-10.md)
-        * [mui-col-xs-9](mui-col-xs-9.md)
-        * [mui-col-xs-8](mui-col-xs-8.md)
-        * [mui-col-xs-7](mui-col-xs-7.md)
-        * [mui-col-xs-6](mui-col-xs-6.md)
-        * [mui-col-xs-5](mui-col-xs-5.md)
-        * [mui-col-xs-4](mui-col-xs-4.md)
-        * [mui-col-xs-3](mui-col-xs-3.md)
-        * [mui-col-xs-2](mui-col-xs-2.md)
-        * [mui-col-xs-1](mui-col-xs-1.md)
-        * [mui-col-sm-12](mui-col-sm-12.md)
-        * [mui-col-sm-11](mui-col-sm-11.md)
-        * [mui-col-sm-10](mui-col-sm-10.md)
-        * [mui-col-sm-9](mui-col-sm-9.md)
-        * [mui-col-sm-8](mui-col-sm-8.md)
-        * [mui-col-sm-7](mui-col-sm-7.md)
-        * [mui-col-sm-6](mui-col-sm-6.md)
-        * [mui-col-sm-5](mui-col-sm-5.md)
-        * [mui-col-sm-4](mui-col-sm-4.md)
-        * [mui-col-sm-3](mui-col-sm-3.md)
-        * [mui-col-sm-2](mui-col-sm-2.md)
-        * [mui-col-sm-1](mui-col-sm-1.md)
+    * [消息框](消息框.md)
 
