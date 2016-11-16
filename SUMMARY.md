@@ -103,11 +103,10 @@
     * [导航栏](nav.md)
         * [mui-bar](mui-bar.md)
         * [mui-title](mui-title.md)
-    * 分页
-    * 选择器
+    * [分页](分页.md)
+    * [选择器](选择器.md)
     * [选项卡](tabbar.md)
         * mui-segmented-control
         * mui-control-item
-    * 文字
-    * [消息框](消息框.md)
+    * [文字](文字.md)
 
