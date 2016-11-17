@@ -1,6 +1,8 @@
 # mui-input-password
 
-密码框：给input元素添加`.mui-input-password`类即可使用 
+输入框后面有个按钮可以显示隐藏密码
+
+密码框：给input元素添加`.mui-input-password`类即可使用
 
 例子：
 
