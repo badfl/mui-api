@@ -44,13 +44,13 @@
         * [mui-input-speech](mui-input-speech.md)
         * [mui-password](mui-password.md)
         * [mui-input-password](mui-input-password.md)
-        * mui-input-group
-        * mui-input-row
+        * [mui-input-group](mui-input-group.md)
+        * [mui-input-row](mui-input-row.md)
     * [单选框\/复选框](checkbox.md)
         * [mui-checkbox](mui-checkbox.md)
         * [mui-radio](mui-radio.md)
         * [mui-left](mui-left.md)
-            * mui-slider-loop
+            * [mui-slider-loop](mui-slider-loop.md)
         * [mui-disabled](mui-disabled.md)
     * [滑块](range.md)
         * [mui-input-range](mui-input-range.md)

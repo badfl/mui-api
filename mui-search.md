@@ -2,17 +2,18 @@
 
 默认搜索框
 例子：
-```
+
+```js
 <div class="mui-input-row mui-search">
     <input type="search" placeholder="请输入搜索内容" class="mui-input-clear"/>
-  </div>
-    ```
+</div>
+```
 
 ---
 
+### Mui.css （_v3.0.0_）部分源码：
 
-### Mui.css （*v3.0.0*）部分源码：
-```
+```css
 2957
 .mui-input-row.mui-search .mui-icon-clear
 {
@@ -98,3 +99,4 @@
     display: none;
 }
 ```
+
