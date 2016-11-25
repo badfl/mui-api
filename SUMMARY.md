@@ -110,6 +110,6 @@
         * mui-control-item
     * [文字](文字.md)
     * [grid9](grid9.md)
-        * mui-grid-view
-        * mui-grid-9
+        * [mui-grid-view](mui-grid-view.md)
+        * [mui-grid-9](mui-grid-9.md)
 
