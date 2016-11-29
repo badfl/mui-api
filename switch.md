@@ -1,6 +1,7 @@
 # 开关
+[source code](https://jsfiddle.net/badfl/dd97mzkL/)
 
-mui提供了开关控件，点击滑动两种手势都可以对开关控件进行操作 
+mui提供了开关控件，点击滑动两种手势都可以对开关控件进行操作
 
 默认开关控件,带on\/off文字提示，打开时为绿色背景，基本class类为`.mui-switch`、`.mui-switch-handle`，DOM结构如下：
 
