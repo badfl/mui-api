@@ -1,10 +1,11 @@
 # mui-numbox-input
 
-
 ---
 
+数字输入区域
 
-### Mui.css （*v3.0.0*）部分源码：
+### Mui.css （_v3.0.0_）部分源码：
+
 ```
 4801
 .mui-numbox .mui-numbox-input, .mui-numbox .mui-input-numbox
@@ -27,3 +28,4 @@
     border-radius: 0 !important;
 }
 ```
+
