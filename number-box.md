@@ -1,5 +1,6 @@
 # 数字输入框
 
+[source code](https://jsfiddle.net/badfl/8ez9n79e/)
 mui提供了数字输入框控件，可直接输入数字，也可以点击“+”、“-”按钮变换当前数值；默认numbox控件dom结构比较简单，如下：
 
 ```js
