@@ -114,4 +114,6 @@
     * [grid9](grid9.md)
         * [mui-grid-view](mui-grid-view.md)
         * [mui-grid-9](mui-grid-9.md)
+        * [mui-col-sm-1](mui-col-sm-1.md)
+
 
