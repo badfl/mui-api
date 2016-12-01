@@ -80,7 +80,7 @@
         * [mui-slider](mui-slider2.md)
         * [mui-scroll-wrapper](mui-scroll-wrapper.md)
         * [mui-slider-indicator](mui-slider-indicator.md)
-        * mui-indicator
+        * [mui-indicator](mui-indicator.md)
         * [mui-segmented-control](mui-segmented-control.md)
         * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
         * mui-indicator
