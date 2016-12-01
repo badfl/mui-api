@@ -1,6 +1,7 @@
 # mui-slider-group
 
-
+轮播图组
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
 
 ### Mui.css （_v3.0.0_）部分源码：
 
