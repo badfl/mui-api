@@ -89,7 +89,6 @@
         * [mui-progressbar](mui-progressbar.md)
         * [mui-progressbar-infinite](mui-progressbar-infinite.md)
         * [mui-progressbar-in](mui-progressbar-in.md)
-        * [mui-pagination](mui-pagination.md)
     * [其他](other.md)
         * [mui-content](mui-content.md)
         * [mui-content-padded](mui-content-padded.md)
@@ -97,6 +96,7 @@
         * [mui-pull-right](mui-pull-right.md)
         * [mui-pull-left](mui-pull-left.md)
         * [mui-clearfix](mui-clearfix.md)
+        * [mui-pagination](mui-pagination.md)
         * [mui-fullscreen](mui-fullscreen.md)
     * [区域滚动](scroll.md)
         * mui-scroll-wrapper
