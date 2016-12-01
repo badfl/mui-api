@@ -1,6 +1,6 @@
 # mui-slider-title
 增加轮播图标题
-
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
 
 ```
 <p>
