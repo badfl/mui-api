@@ -1,6 +1,7 @@
 # mui-slider
 
-
+轮播图节点，所有轮播图相关放到子项里面
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
 ---
 
 
