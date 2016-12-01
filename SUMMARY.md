@@ -88,7 +88,7 @@
     * [进度条](progressbar.md)
         * [mui-progressbar](mui-progressbar.md)
         * [mui-progressbar-infinite](mui-progressbar-infinite.md)
-        * mui-progressbar-in
+        * [mui-progressbar-in](mui-progressbar-in.md)
         * mui-pagination
     * [其他](other.md)
         * [mui-content](mui-content.md)
