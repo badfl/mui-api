@@ -1,6 +1,6 @@
 # mui-slider-item-duplicate
 
-
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
 
 在mui-slider-group节点增加mui-slder-loop样式，实现循环轮播，在子节点第一项与最后增加带mui-slider-item-duplicate与轮播第一项与最后一项相同的mui-slider-item节点
 
