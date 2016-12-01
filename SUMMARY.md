@@ -79,11 +79,11 @@
         * [mui-slider-item-duplicate](mui-slider-item-duplicate.md)
         * [mui-slider](mui-slider2.md)
         * [mui-scroll-wrapper](mui-scroll-wrapper.md)
-        * [mui-fullscreen](mui-fullscreen.md)
         * [mui-slider-indicator](mui-slider-indicator.md)
+        * mui-indicator
         * [mui-segmented-control](mui-segmented-control.md)
         * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
-        * [mui-slider-loop](mui-slider-loop.md)
+        * mui-indicator
     * [进度条](progressbar.md)
         * [mui-progressbar](mui-progressbar.md)
         * [mui-progressbar-infinite](mui-progressbar-infinite.md)
@@ -94,7 +94,7 @@
         * [mui-pull-right](mui-pull-right.md)
         * [mui-pull-left](mui-pull-left.md)
         * [mui-clearfix](mui-clearfix.md)
-        * mui-fullscreen
+        * [mui-fullscreen](mui-fullscreen.md)
     * [区域滚动](scroll.md)
         * mui-scroll-wrapper
         * [mui-scroll](mui-scroll.md)

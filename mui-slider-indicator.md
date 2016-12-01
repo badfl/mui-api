@@ -1,5 +1,7 @@
 # mui-slider-indicator
 
+轮播图焦点组
+
 ```
 4344
 .mui-slider-indicator
