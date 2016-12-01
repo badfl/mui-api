@@ -84,6 +84,7 @@
         * [mui-indicator](mui-indicator.md)
         * [mui-segmented-control](mui-segmented-control.md)
         * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
+        * [mui-slider-title](mui-slider-title.md)
     * [进度条](progressbar.md)
         * [mui-progressbar](mui-progressbar.md)
         * [mui-progressbar-infinite](mui-progressbar-infinite.md)
