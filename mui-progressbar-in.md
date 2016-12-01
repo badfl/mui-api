@@ -1,7 +1,7 @@
 # mui-progressbar-in
 
 动态设置进度条动画
-
+[source code](https://jsfiddle.net/badfl/wrxfem2x/)
 
 ```
 V3.4
