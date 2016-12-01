@@ -66,7 +66,7 @@ progressbar初始化逻辑：
 
 页面顶部进度条类似浏览器进度条，固定显示在页面顶部（标题导航控件下方）； 因此，若当前页面使用父子双webview模式，子页面没有标题导航组件，则需通过自定义css的方式，重定义顶部进度条的位置，示例代码如下：
 
-```
+```js
 body>.mui-progressbar{
 	top:0
 }
@@ -74,8 +74,32 @@ body>.mui-progressbar{
 
 使用页面顶部进度条时，无需编写DOM结构，使用如下代码即可自动创建（顶部无限循环进度条同理）：
 
-```
+```js
 mui('body').progressbar({
 	progress: 20
 }).show();
 ```
+
+**自定义进度条颜色：**
+
+```js
+  <div id="demo5">
+    <p class="mui-progressbar infinite-success mui-progressbar-infinite"><span></span></p>
+    <p id="changeColor" class="mui-progressbar mui-progressbar-warning"><span></span></p>
+
+  </div>
+```
+增加CSS样式或者重写官方css样式
+```css
+//自定义进度条颜色
+.mui-progressbar-warning span {
+  background-color: #f0ad4e;
+}
+//自定义无限进度条颜色
+.infinite-success:before {
+  background-color: #4cd964 !important;
+}
+```
+
+
+
