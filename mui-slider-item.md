@@ -1,6 +1,7 @@
 # mui-slider-item
 
-
+轮播图子项
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
 
 ### Mui.css （_v3.0.0_）部分源码：
 
