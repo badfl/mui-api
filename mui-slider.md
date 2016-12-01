@@ -16,6 +16,8 @@
   </div>
 </div>
 ```
+[source code](https://jsfiddle.net/badfl/49up0q4y/)
+
 
 当拖动切换显示内容时，会触发slide事件，通过该事件的detail.slideNumber参数可以获得当前显示项的索引（第一项索引为0，第二项为1，以此类推），利用该事件，可在显示内容切换时，动态处理一些业务逻辑。
 
