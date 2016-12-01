@@ -1,5 +1,7 @@
 # 进度条
 
+[source code](https://jsfiddle.net/badfl/wrxfem2x/)
+
 **有准确值的进度条**
 
 有准确值的进度条会显示当前进度正处于整体进度的占比位置，用户可以更直观的预期完成时间；
