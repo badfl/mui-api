@@ -88,6 +88,8 @@
     * [进度条](progressbar.md)
         * [mui-progressbar](mui-progressbar.md)
         * [mui-progressbar-infinite](mui-progressbar-infinite.md)
+        * mui-progressbar-in
+        * mui-pagination
     * [其他](other.md)
         * [mui-content](mui-content.md)
         * [mui-content-padded](mui-content-padded.md)
@@ -138,6 +140,4 @@
         * [mui-col-xs-10](mui-col-xs-10.md)
         * [mui-col-xs-11](mui-col-xs-11.md)
         * [mui-col-xs-12](mui-col-xs-12.md)
-
-
 
