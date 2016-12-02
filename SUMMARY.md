@@ -117,6 +117,8 @@
         * [mui-col-xs-10](mui-col-xs-10.md)
         * [mui-col-xs-11](mui-col-xs-11.md)
         * [mui-col-xs-12](mui-col-xs-12.md)
+    * [图标](图标.md)
+        * mui-icon
     * [遮罩蒙版](mask.md)
     * [选择器](选择器.md)
     * [其他](other.md)
