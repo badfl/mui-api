@@ -1,6 +1,6 @@
 # mui-bar-transparent
 
-透明导航栏
+透明导航栏,元素背景颜色必须为RGBA
 
 透明导航
 [source code](https://jsfiddle.net/badfl/sj60d4v2/)

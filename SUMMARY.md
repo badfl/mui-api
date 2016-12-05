@@ -121,6 +121,12 @@
         * mui-icon
     * [遮罩蒙版](mask.md)
     * [选择器](选择器.md)
+    * [导航栏](nav.md)
+        * [mui-bar](mui-bar.md)
+        * [mui-bar-nav](mui-bar-nav.md)
+        * [mui-title](mui-title.md)
+        * [mui-action-back](mui-action-back.md)
+        * [mui-bar-transparent](mui-bar-transparent.md)
     * [其他](other.md)
         * [mui-content](mui-content.md)
         * [mui-content-padded](mui-content-padded.md)
@@ -136,12 +142,6 @@
         * [mui-control-content](mui-control-content.md)
     * [侧滑菜单](offcanvas.md)
     * actionsheet
-    * [导航栏](nav.md)
-        * [mui-bar](mui-bar.md)
-        * [mui-bar-nav](mui-bar-nav.md)
-        * [mui-title](mui-title.md)
-        * [mui-action-back](mui-action-back.md)
-        * [mui-bar-transparent](mui-bar-transparent.md)
     * [分页](分页.md)
     * [选项卡](tabbar.md)
         * mui-segmented-control
