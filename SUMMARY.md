@@ -138,7 +138,10 @@
     * actionsheet
     * [导航栏](nav.md)
         * [mui-bar](mui-bar.md)
+        * [mui-bar-nav](mui-bar-nav.md)
         * [mui-title](mui-title.md)
+        * mui-icon-left-nav
+        * [mui-action-back](mui-action-back.md)
     * [分页](分页.md)
     * [选项卡](tabbar.md)
         * mui-segmented-control
