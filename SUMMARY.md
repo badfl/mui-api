@@ -137,7 +137,7 @@
         * [mui-pagination](mui-pagination.md)
         * [mui-fullscreen](mui-fullscreen.md)
     * [区域滚动](scroll.md)
-        * mui-scroll-wrapper
+        * [mui-scroll-wrapper](mui-scroll-wrapper.md)
         * [mui-scroll](mui-scroll.md)
         * [mui-control-content](mui-control-content.md)
     * [侧滑菜单](offcanvas.md)
@@ -146,5 +146,12 @@
     * [选项卡](tabbar.md)
         * mui-segmented-control
         * mui-control-item
-    * [文字](文字.md)
+    * [文字](word.md)
+        * [h1\/mui-h1](h1mui-h1.md)
+        * [h2\/mui-h2](h2mui-h2.md)
+        * [h3\/mui-h3](h3mui-h3.md)
+        * [h4\/mui-h4](h4mui-h4.md)
+        * [h5\/mui-h5](h5mui-h5.md)
+        * [h6\/mui-h6](h6mui-h6.md)
+        * [p](p.md)
 
