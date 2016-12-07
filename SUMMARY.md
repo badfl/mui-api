@@ -141,6 +141,12 @@
         * [mui-scroll](mui-scroll.md)
         * [mui-control-content](mui-control-content.md)
     * [侧滑菜单](offcanvas.md)
+        * mui-off-canvas-left
+        * mui-off-canvas-right
+        * mui-off-canvas-wrap
+        * mui-draggable
+        * mui-scalable
+        * mui-slide-in
     * actionsheet
     * [分页](分页.md)
     * [选项卡](tabbar.md)
