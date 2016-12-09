@@ -23,7 +23,7 @@ mui提供了两种侧滑导航实现：webview模式和div模式，两种模式�
 div模式支持不同的动画效果，每种动画效果需遵从不同的DOM构造；下面我们以右滑菜单为例（左滑菜单仅需将菜单父节点上的mui-off-canvas-left换成mui-off-canvas-right即可），说明每种动画对应的DOM结构。
 
 **动画1：主界面移动、菜单不动**
-
+[source code](https://jsfiddle.net/badfl/2787276a/)
 ```
 <!-- 侧滑导航根容器 -->
 <div class="mui-off-canvas-wrap mui-draggable">
@@ -55,13 +55,15 @@ div模式支持不同的动画效果，每种动画效果需遵从不同的DOM�
 
 **动画2：缩放式侧滑（类手机QQ）**
 该种动画要求的DOM结构和动画1的DOM结构基本相同，唯一差别就是需在侧滑导航根容器class上增加一个mui-scalable类
+[source code](https://jsfiddle.net/badfl/8671wcLh/)
 
 **动画3：主界面不动、菜单移动**
 该种动画要求的DOM结构和动画1的DOM结构基本相同，唯一差别就是需在侧滑导航根容器class上增加一个mui-slide-in类
+[source code](https://jsfiddle.net/badfl/m4q13nes/)
 
 **动画4：主界面、菜单同时移动**
 该种动画要求的DOM结构较特殊，需将菜单容器放在主页面容器之下
-
+[source code](https://jsfiddle.net/badfl/fqk49Loz/)
 
 ```
 <!-- 侧滑导航根容器 -->
@@ -115,21 +117,23 @@ mui('.mui-off-canvas-wrap').offCanvas().show();
 
 以下方法皆支持上述两种调用方式
 
-```
-方法名	作用
-show()	显示
-close()	隐藏
-toggle()	切换事件监听
-```
+
+|方法名|	作用|
+|--|--|
+|show()|	显示|
+|close()|	隐藏|
+|toggle()|	切换事件监听|
+
 
 你可以通过一下方式监听侧滑菜单显示隐藏
 
 
-```
-事件名	作用
-shown	显示
-hidden	隐藏
-```
+
+|事件名 |作用|
+| --|:--:|
+|shown |显示|
+|hidden |隐藏|
+
 
 
 ```js
