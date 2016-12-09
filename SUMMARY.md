@@ -141,14 +141,14 @@
         * [mui-scroll](mui-scroll.md)
         * [mui-control-content](mui-control-content.md)
     * [侧滑菜单](offcanvas.md)
-        * mui-off-canvas-left
-        * mui-off-canvas-right
         * [mui-off-canvas-wrap](mui-off-canvas-wrap.md)
-        * mui-draggable
-        * mui-scalable
-        * mui-slide-in
-        * mui-action-menu
         * [mui-inner-wrap](mui-inner-wrap.md)
+        * [mui-off-canvas-left](mui-off-canvas-left.md)
+        * [mui-off-canvas-right](mui-off-canvas-right.md)
+        * [mui-draggable](mui-draggable.md)
+        * [mui-scalable](mui-scalable.md)
+        * [mui-slide-in](mui-slide-in.md)
+        * [mui-action-menu](mui-action-menu.md)
     * actionsheet
     * [分页](分页.md)
     * [选项卡](tabbar.md)

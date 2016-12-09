@@ -1,3 +1,4 @@
-# mui-inner-wrap
-侧滑菜单主页容器
+# mui-off-canvas-left
+
+菜单右划
 [source code](https://jsfiddle.net/badfl/2787276a/)
