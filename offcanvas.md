@@ -130,7 +130,7 @@ mui('.mui-off-canvas-wrap').offCanvas().show();
 
 
 |事件名 |作用|
-| --|:--:|
+| --|--|
 |shown |显示|
 |hidden |隐藏|
 
