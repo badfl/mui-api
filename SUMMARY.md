@@ -12,11 +12,15 @@
         * [mui-media-object](mui-media-object.md)
         * [mui-media-body](mui-media-body.md)
         * [mui-ellipsis](mui-ellipsis.md)
+        * mui-table-view-chevron
+        * mui-table-view-striped
+        * mui-table-view-condensed
     * [弹出菜单](popover.md)
         * [mui-popover](mui-popover.md)
         * [mui-popover-action](mui-popover-action.md)
         * [mui-popover-bottom](mui-popover-bottom.md)
         * [mui-popover-arrow](mui-popover-arrow.md)
+        * mui-bar-popover
     * [按钮](mui-btn.md)
         * [mui-btn](.mui-btn.md)
         * [mui-btn-primary\/mui-btn-blue](mui-btn-primary.md)
@@ -154,6 +158,15 @@
     * [选项卡](tabbar.md)
         * mui-segmented-control
         * mui-control-item
+        * [mui-bar](mui-bar.md)
+        * mui-bar-tab
+        * mui-tab-item
+        * mui-tab-label
+        * mui-control-content
+        * mui-bar-popover
+        * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
+        * mui-segmented-control-negative
+        * mui-segmented-control-positive
     * [文字](word.md)
         * [h1\/mui-h1](h1mui-h1.md)
         * [h2\/mui-h2](h2mui-h2.md)
