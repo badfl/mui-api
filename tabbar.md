@@ -129,10 +129,9 @@ HTML结构
 </div>
 ```
 
-
-
-
 ## 顶部选项卡-可左右拖动(div)
+[source code](https://jsfiddle.net/badfl/7863j52n/)
+
 ## 左侧选项卡-div模式
 ## 左侧选项卡-div模式-滚动监听
 
