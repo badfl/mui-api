@@ -164,10 +164,11 @@
         * mui-control-content
         * mui-bar-popover
         * mui-segmented-control
+        * mui-segmented-control-vertical
         * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
         * [mui-segmented-control-negative](mui-segmented-control-negative.md)
         * [mui-segmented-control-positive](mui-segmented-control-positive.md)
-        * [mui-segmented-control-primary](mui-segmented-control-primary.md)
+        * mui-segmented-control-vertical
     * [文字](word.md)
         * [h1\/mui-h1](h1mui-h1.md)
         * [h2\/mui-h2](h2mui-h2.md)
