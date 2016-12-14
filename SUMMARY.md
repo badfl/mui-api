@@ -163,7 +163,7 @@
         * mui-tab-label
         * mui-control-content
         * mui-bar-popover
-        * mui-segmented-control
+        * [mui-segmented-control](mui-segmented-control.md)
         * mui-segmented-control-vertical
         * [mui-segmented-control-inverted](mui-segmented-control-inverted.md)
         * [mui-segmented-control-negative](mui-segmented-control-negative.md)
