@@ -133,5 +133,6 @@ HTML结构
 [source code](https://jsfiddle.net/badfl/7863j52n/)
 
 ## 左侧选项卡-div模式
+[source code](https://jsfiddle.net/badfl/jdLfdvo6/)
 ## 左侧选项卡-div模式-滚动监听
 
