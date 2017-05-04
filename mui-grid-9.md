@@ -1,5 +1,7 @@
 # mui-grid-9
-定义九宫格背景
+
+定义九宫格背景、上面边框与左面边框
+
 ```
 2562
 .mui-grid-view.mui-grid-9
@@ -12,3 +14,6 @@
     background-color: #f2f2f2;
 }
 ```
+
+
+
