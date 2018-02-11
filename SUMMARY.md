@@ -183,4 +183,12 @@
     * [p](p.md)
   * pulltorefresh
   * 日期时间选择器
+  * [utils](utils.md)
+    * init\(\)
+    * mui\(\)
+    * each\(\)
+    * extend\(\)
+    * later\(\)
+    * scrollTo\(\)
+    * os
 
