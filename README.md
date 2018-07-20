@@ -9,5 +9,9 @@ mui框架有效的解决了这些问题，这是一个可以方便开发出高�
 -更多精彩内容请访问DCloud官网（[http:\/\/www.dcloud.io\/）](http://www.dcloud.io/）)  
 -MUI官方文档（[http:\/\/dev.dcloud.net.cn\/mui\/ui\/）](http://dev.dcloud.net.cn/mui/ui/）)
 
-[SUMMARY.md](/SUMMARY.md)
+
+
+gitbook在线地址：https://badfl.gitbooks.io/mui/content/
+
+[GitHub目录](/SUMMARY.md)
 
